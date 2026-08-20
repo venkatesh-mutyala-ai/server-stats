@@ -2,8 +2,7 @@
 
 A simple Bash script to analyze basic Linux server performance statistics.
 
-**GitHub Repository:**  
-https://github.com/venkatesh-mutyala-ai/server-stats
+
 
 ## Features
 
@@ -44,7 +43,7 @@ No additional software installation is required on most Linux servers.
 
 Clone the repository:
 
-    git clone https://github.com/YOUR_USERNAME/server-stats.git
+    git clone https://github.com/venkatesh-mutyala-ai/server-stats
 
 Go to the project directory:
 
