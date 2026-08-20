@@ -2,6 +2,9 @@
 
 A simple Bash script to analyze basic Linux server performance statistics.
 
+**GitHub Repository:**  
+https://github.com/venkatesh-mutyala-ai/server-stats
+
 ## Features
 
 The script displays:
